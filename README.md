@@ -37,29 +37,19 @@ Next step is we find the file in downloads and double click the file:  <br/>
 <br />
 <br />
 <br />
-Next step is we find the file in downloads and double click the file:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+There will be a prompt window, we will setup our VM with default settings and click "Next/Finish":  <br/>
+<img src="https://i.imgur.com/c0GmQqe.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br />
-Next step is we find the file in downloads and double click the file:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now we need to open up the terminal and get our updates for Remnux by using the ap-get update command.<br/> We are using Sudo before the command because we are not in root. :  <br/>
+<img src="https://i.imgur.com/zNjEiyh.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br />
-Next step is we find the file in downloads and double click the file:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<br />
-<br />Next step is we find the file in downloads and double click the file:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<br />
-<br />
+
 
 
 
